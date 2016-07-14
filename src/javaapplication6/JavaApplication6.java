@@ -10,7 +10,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 /**
  *
- * @author root
+ * @author somebody
  */
 public class JavaApplication6  
 {

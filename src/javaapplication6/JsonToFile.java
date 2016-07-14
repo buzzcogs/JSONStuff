@@ -11,7 +11,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 /**
  *
- * @author root
+ * @author somebody
  */
 public class JsonToFile 
 {
